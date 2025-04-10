@@ -11,3 +11,6 @@ You can contribute by helping with the code or donating money :).
 
 It's my hope to be able to do open source development fulltime, So eventually there will be donation buttons here :)
 
+# License 
+
+This project is given out under GPL 3.0 (relevant license detail changes will be made to the project at a later date)
